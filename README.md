@@ -1,2 +1,2 @@
-# hackerrannk-practice-problems
+# hackerrank-practice-problems
 This repository contains solutions to hackerrank problems
